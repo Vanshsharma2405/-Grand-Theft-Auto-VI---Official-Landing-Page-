@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @font-face {
   font-family: "pricedown";
-  src: url("./public/Pricedown Bl.otf");
+  src: url("./public/Pricedown Bl.woff2");
 }
 @font-face {
   font-family: "GTAArtDeco";
