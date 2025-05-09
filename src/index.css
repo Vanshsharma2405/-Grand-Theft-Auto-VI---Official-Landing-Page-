@@ -5,7 +5,11 @@
 }
 @font-face {
   font-family: "GTAArtDeco";
-  src: url("/GTAArtDeco.woff2");  
+  src: url("./GTAArtDeco.woff2");  
+}
+@font-face {
+  font-family: "helvetica-now-display-medium";
+  src: url("./helvetica-now-display-medium.woff2");
 }
 html,
 body {

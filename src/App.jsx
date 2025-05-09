@@ -202,7 +202,7 @@ function App() {
             <div className="btmbar flex flex-row items-center text-white text-xl absolute w-full py-8 px-8 bottom-0  bg-gradient-to-transparent">
               <div className="flex gap-4 items-center">
                 <i className=" text-2xl ri-arrow-down-line"></i>
-                <div className="font-[Helvetica_Now_Display] text-[1.1rem]">
+                <div className="font-[helvetica-now-display-medium] text-[1.1rem]">
                   Scroll Down
                 </div>
               </div>
