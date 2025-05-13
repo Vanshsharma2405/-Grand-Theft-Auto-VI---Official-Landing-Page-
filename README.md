@@ -7,16 +7,7 @@ A cinematic React.js experience showcasing GTA VI with advanced animations and i
 - 🖱️ Parallax hover effects on main artwork
 - 📜 Smooth scroll behavior using Lenis scroll library
 - 🎮 Interactive trailer reveal section
-- 📱 Responsive design with optimized assets
 - 🌌 Dynamic layered background effects
-
-## Installation
-```bash
-git clone [your-repo-link]
-cd gta-vi-landing
-npm install
-npm run dev
-```
 
 ## Technologies Used
 - ⚛️ React 18 + Vite
